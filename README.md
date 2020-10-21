@@ -29,13 +29,13 @@ Este sistema extrae los siguientes campos del XML:
 Puedes usar la herramienta [Descarga Masiva CFDI](https://github.com/eduardoarandah/DescargaMasivaCFDI)
 
 
-**Contáctame si necesitas ayuda:** 
-
+<!--**Contáctame si necesitas ayuda:**  -->
+**para contactar al autor orginal**
 eduardoarandah@gmail.com
 
-**Si deseas contribuir al desarrollo**
+**Si deseas contribuir con el autor original visita su sitio en github**
 
-Puedes hacerlo via paypal en el siguiente enlace
-[https://eduardoarandah.github.io/](https://eduardoarandah.github.io/)
+<!--Puedes hacerlo via paypal en el siguiente enlace
+[https://eduardoarandah.github.io/](https://eduardoarandah.github.io/) -->
 
-![donar](https://user-images.githubusercontent.com/4065733/38109725-587af320-3356-11e8-941a-7215489a9286.png)
+<!-- ![donar](https://user-images.githubusercontent.com/4065733/38109725-587af320-3356-11e8-941a-7215489a9286.png)-->
