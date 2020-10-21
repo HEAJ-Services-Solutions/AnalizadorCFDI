@@ -1,4 +1,4 @@
-# Analizador CFDI
+# Analizador CFDI Version original https://github.com/eduardoarandah/AnalizadorCFDI 
 
 Crear un resumen de los XML de los CFDI del SAT fácil de copiar a Excel.
 
@@ -6,13 +6,13 @@ Arrastra los archivos XML del SAT a la pantalla y obtén un resumen del contenid
 
 **Nota: El sistema no envía tus XML a ningún lugar, por lo que tu privacidad está garantizada**
 
-## Cómo usar
+<!--## Cómo usar
 
 **Para usar [click aquí](https://analizador-cfdi.netlify.com)**
 
 ![ejemplo1](https://user-images.githubusercontent.com/4065733/38106353-f1a258be-334b-11e8-98ac-6206ddacb1ae.png)
 
-
+-->
 # Desarrollo
 
 Este sistema extrae los siguientes campos del XML:
